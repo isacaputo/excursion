@@ -36,11 +36,17 @@ h2 {
 }
 
 .asideImg {
-    width: 800px;
+    width: 620px;
     margin: 0 auto;
     display: block;
 }
 
 .iphoneIcon {
     Padding: 30px;
+}
+
+footer {
+    color: gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    float: right;
 }
